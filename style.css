@@ -1,0 +1,30 @@
+h1 {
+    background-color: black;
+    color: white ;
+    font-family: serif;
+    height: 50px;
+    margin:10px
+}
+span{
+    background-color: black;
+    color: turquoise ;
+    margin:10px
+}
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+    font-family: sans-serif;
+    height: 50px;
+    margin:10px
+}
+h3 {
+    background-color: lightblue;
+    color: black;
+    text-align: right;
+    text-decoration: underline;
+    font-weight: normal;
+    margin:10px
+}
